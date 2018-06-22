@@ -1,15 +1,15 @@
 # 1st
 1st repository.
 ----------------------------------
-1/ Once upon a time
+1/ Once upon a time.
 
 End
 ----------------------------------
-2/ The story of the man
+2/ The story of the man.
 
 End
 ----------------------------------
-3/ Walking dead
+3/ Walking dead.
 
 End
 ----------------------------------
