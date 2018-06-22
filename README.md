@@ -1,5 +1,5 @@
 # 1st
-1st repository
+1st repository.
 ----------------------------------
 1/ Once upon a time
 
@@ -13,6 +13,6 @@ End
 
 End
 ----------------------------------
--- FOOTER                       --
+--           FOOTER             --
 ----------------------------------
                     author - Demky
