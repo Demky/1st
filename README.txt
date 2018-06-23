@@ -1,12 +1,11 @@
-# 1st
-1st repository (TP OCR)
+# 1st repository (TP OCR)
 ----------------------------------
 
 Liste fichiers :
 
-- Articles.md : Repertoire de liens divers
+- Articles.md : Repertoire de liens divers.
 - Image.jpg : no infos
--
+- ListCommandesGit.md
 -
 
 
