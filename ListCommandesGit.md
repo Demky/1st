@@ -27,11 +27,6 @@ git commit -m "your message" | Record changes to the repository and add a commen
 
 
 
-
-
-official list of every **commit** options (-m; -a; ...) : https://git-scm.com/docs/git-commit
-
-
 > I will finish this file later. :neutral_face:
 
                     author - Demky
