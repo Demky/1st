@@ -12,7 +12,7 @@ git config --global user.email "_your email here"_ | same as previous this time 
 If you need to check if there is already a registered name or email; just use those without the end "string":
 > git config --global user.name 
 
-Other solution : You can also open the file **.gitconfig**, by default on windows 10 it's here : C:\Users\<user_name>
+On Windows 10; you can also open **.gitconfig**, default location is : C:\Users\ <user_name>
 
 git commands :anger:
 --
