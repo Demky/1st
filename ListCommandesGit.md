@@ -25,5 +25,5 @@ git init | we tell git that the current directory should be considered as a git 
 |
 git add <name> | add a files to git index
 git commit -m "string about the change" | Record changes to the repository and add a comments about the change
-official list of commit option : https://git-scm.com/docs/git-commit
+official list of every **commit** options : https://git-scm.com/docs/git-commit
 
