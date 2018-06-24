@@ -8,7 +8,8 @@ Liste fichiers :
 
 
 * ListCommandesGit.md  : liste les commandes Git.
-*
+
+<br/>
 
 * gavinlam.png : bug in github repository, reported to support 2018/06/24
 
