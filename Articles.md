@@ -1,7 +1,7 @@
 Divers Liens à lire.
 ==
 
-<br/><br/><br/>
+<br/>
 
 * Fichier .md : Qu’est-ce que le format Markdown ?
 
