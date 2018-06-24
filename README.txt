@@ -4,7 +4,7 @@
 Liste fichiers :
 
 * Articles.md : Repertoire de liens divers (culture).
-* Biblio.md : A lire; projet
+* Biblio.md : A lire; infos/tutos technologique
 
 
 * ListCommandesGit.md  : liste les commandes Git.
