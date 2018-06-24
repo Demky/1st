@@ -30,3 +30,26 @@ git commit -m "your message" | Record changes to the repository and add a commen
 > I will finish this file later. :neutral_face:
 
                     author - Demky
+
+
+
+--------------------
+
+TODO (format §) : 
+> There are also tools that offer graphical interfaces to compare the differences of versions of a file :
+* imdiff 
+* meld
+* opendiff
+* kdiff3
+* tkdiff
+* xxdiff
+* tortoisemerge
+* gvimdiff
+* diffuse
+* ecmerge
+* p4merge
+* araxis 
+* emerge
+
+Launch one of these external merge tools with the git mergetool command as : 
+> git mergetool vimdiff 
