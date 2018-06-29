@@ -26,6 +26,7 @@ git add <name> | add a files to git index | https://git-scm.com/docs/git-add
 git commit -m "your message" | Record changes to the repository and add a comments about the change | https://git-scm.com/docs/git-commit
 
 
+<br /><br />
 
 > I will finish this file later. :neutral_face:
 
