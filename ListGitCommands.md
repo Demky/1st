@@ -54,3 +54,13 @@ TODO (format §) :
 
 Launch one of these external merge tools with the git mergetool command as : 
 > git mergetool vimdiff 
+
+
+Must Have links : :pray:
+--
+
+* How to format a .md
+https://help.github.com/articles/basic-writing-and-formatting-syntax/#quoting-code
+
+* list of git smileys : :speech_balloon:
+https://www.webpagefx.com/tools/emoji-cheat-sheet/
