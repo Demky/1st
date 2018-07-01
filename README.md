@@ -1,17 +1,22 @@
-# Random links
+# Random Stuffs
 ----------------------------------
 
-Liste fichiers :
+Folders
+--
+* algorithms : must know Algorithms.
+
+Files
+--
 
 * Articles.md : Repertoire de liens divers (culture).
 * Biblio.md : A lire; infos/tutos technologique
 
 
-* ListCommandesGit.md  : liste les commandes Git.
+* ListCommandesGit.md  : list of git's commands.
 
 <br/>
 
-* gavinlam.png : bug in github repository, reported to support 2018/06/24
+* gavinlam.png : bug in github repository, reported to support 2018/06/24 -> see closed issues for their answer
 
 * Image.jpg : random picture to test picture on Github.
 
