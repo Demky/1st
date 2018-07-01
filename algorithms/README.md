@@ -1,7 +1,7 @@
 Random Algorithms
 ==
 
-What ? | Folder | interesting links
+What ? | Files | interesting links
 -------- | -------- | --------
 Bubble sort | s_bubble.py | https://interactivepython.org/runestone/static/pythonds/SortSearch/TheBubbleSort.html
 Insertion sort | s_insertion.py | https://interactivepython.org/courselib/static/pythonds/SortSearch/TheInsertionSort.html
