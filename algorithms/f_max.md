@@ -3,12 +3,14 @@ Find the bigger value
 
 **Files not completed** : code is wrong and algorithm is false (why start a 0 and not a list[0] ? what if numbers are <0 ?
 
+File need correction
+
+----
+
 At first, the current maximum is 0.
 
-It compares each item with current maximum:
-if it is greater than the maximum known, **it becomes the current maximum**.
-
-At the end of the course, the current maximum is the maximum of the whole picture.
+It compares each item with index[0] of the array/list.
+if it is greater than it,**it becomes the current maximum**.
 
 
 * [PHP](https://www.w3schools.com/Php/php_intro.asp)
@@ -29,12 +31,17 @@ function maximum($liste) {
 * [Python](https://docs.python.org/3/tutorial/index.html)
 
 ```
-
+lst = [3, 12, 5]
+ 
+vMax = lst[0]
+for i in lst :
+  if i > vMax:
+  vmax = i
 ```
 
 
 
-* [OCaml](https://ocaml.org/learn/description.html)
+* [OCaml](https://ocaml.org/learn/description.html) (_not sure if this works_)
 
 ```
 let maximum liste =
@@ -44,3 +51,16 @@ let maximum liste =
   in parcours 0 liste
 
 ```
+
+French explanation of the OCaml algo :
+>OCaml, les fonctions sont utilisées différemment, via la currifycation. 
+C'est quelque chose de courant en lambda-calcul, sur lequel repose OCaml.
+**let maximum liste** = définit une fonction, maximum, qui aura comme seul argument liste.
+
+Juste en-dessous, **let rec parcours max_actuel = function** est une fonction (récursive) qui prend en arguments deux paramètres, max_actuel et une liste, et l'on essaye de voir si la liste est vide [], ou si elle contient au moins un élément **elem::reste**.
+
+Ensuite , ligne 4 parcours s'appelle lui-même avec le code parcours (**max max_actuel elem**) reste. 
+Le premier argument est le maximum actuel, le second le reste de la liste à explorer.
+
+
+[_source_](https://openclassrooms.com/forum/sujet/erreur-dans-code-php-dun-cours-aide-ocaml#message-92485840)
