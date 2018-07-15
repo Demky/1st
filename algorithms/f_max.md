@@ -57,9 +57,9 @@ French explanation of the OCaml algo :
 C'est quelque chose de courant en lambda-calcul, sur lequel repose OCaml.
 **let maximum liste** = définit une fonction, maximum, qui aura comme seul argument liste.
 
-Juste en-dessous, **let rec parcours max_actuel = function** est une fonction (récursive) qui prend en arguments deux paramètres, max_actuel et une liste, et l'on essaye de voir si la liste est vide [], ou si elle contient au moins un élément **elem::reste**.
+>Juste en-dessous, **let rec parcours max_actuel = function** est une fonction (récursive) qui prend en arguments deux paramètres, max_actuel et une liste, et l'on essaye de voir si la liste est vide [], ou si elle contient au moins un élément **elem::reste**.
 
-Ensuite , ligne 4 parcours s'appelle lui-même avec le code parcours (**max max_actuel elem**) reste. 
+>Ensuite , ligne 4 parcours s'appelle lui-même avec le code parcours (**max max_actuel elem**) reste. 
 Le premier argument est le maximum actuel, le second le reste de la liste à explorer.
 
 
