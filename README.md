@@ -4,6 +4,7 @@
 Folders
 --
 * algorithms : must know Algorithms.
+* GitHub_Ressources : Ressources for Github (smileys, commands, must know...)
 
 Files
 --
