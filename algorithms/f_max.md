@@ -1,13 +1,31 @@
-Find the bigger value
+:penguin: Find the bigger value
 --
 
 **Files not completed** : code is wrong and algorithm is false (why start a 0 and not a list[0] ? what if numbers are <0 ?
 
-File need correction
+Only python algorithm is correct, other language need correction (make a pull request if you got the solution).
 
 ----
 
-At first, the current maximum is 0.
+
+* [Python](https://docs.python.org/3/tutorial/index.html)
+
+_vMax start a first index of the list (works for positiv and negativ numbers)_
+
+```
+lst = [3, 12, 5]
+ 
+vMax = lst[0]
+for i in lst :
+  if i > vMax:
+  vmax = i
+```
+
+
+---------------------------------
+Here the algorithms are false and need correction (help's welcome): 
+
+At first, **the current maximum is 0.** -> :exclamation: doesn't work if there is negativ number !
 
 It compares each item with index[0] of the array/list.
 if it is greater than it,**it becomes the current maximum**.
@@ -28,16 +46,6 @@ function maximum($liste) {
 
 ```
 
-* [Python](https://docs.python.org/3/tutorial/index.html)
-
-```
-lst = [3, 12, 5]
- 
-vMax = lst[0]
-for i in lst :
-  if i > vMax:
-  vmax = i
-```
 
 
 
