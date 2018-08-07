@@ -8,7 +8,7 @@ Folders
   * ListCommandesGit.md  : list of git's commands. 
   * ListSmiley : List of availlable Smiley for github. (_Coming soon_)
 
-* algorithms : must know Algorithms.
+* algorithms : must know Algorithms (_to be completed_).
 
 
 
