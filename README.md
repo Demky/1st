@@ -12,22 +12,6 @@ Folders
 
 
 
-Files
---
-
-* Articles.md : Repertoire de liens divers (culture).
-* Biblio.md : A lire; infos/tutos technologique
-
-
-
-
-<br/>
-
-* gavinlam.png : bug in github repository, reported to support 2018/06/24 -> see closed issues for their answer
-
-* Image.jpg : random picture to test picture on Github.
-
-
       author - Demky
 
 
