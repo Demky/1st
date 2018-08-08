@@ -1,4 +1,4 @@
-Complete list of github markdown emoji/smiley markup
+Complete list of github markdown emoji/smiley markup (use CTRL+F for rapid search)
 ------
 
 
