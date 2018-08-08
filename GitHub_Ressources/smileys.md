@@ -1,6 +1,6 @@
-Complete list of github markdown emoji/smiley markup (use CTRL+F for rapid search)
+Complete list of github markdown emoji/smiley markup 
 ------
-
+:mag_right: (_use CTRL+F for rapid search_) :mag:
 
 People
 ======
