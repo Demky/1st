@@ -7,6 +7,7 @@ Language/Framework name | url | ?
 ----- | ----- | ----- |
 Django | https://docs.djangoproject.com/en/2.1/intro/tutorial01/ |  Official tuto; EN/FR/...
 Bootstrap 4.0 | https://laravel.sillo.org/bootstrap-4/ | FR
+Bootstrap 4.0 Official | https://getbootstrap.com/docs/4.1/getting-started/introduction/ | Official tuto; EN
 VueJS | http://laravel.sillo.org/vue-js/ | FR
 
 
