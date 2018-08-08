@@ -76,8 +76,9 @@ People
 Nature
 ======
 
-| :sunny: `:sunny:` | :umbrella: `:umbrella:` | :cloud: `:cloud:` |
+1 | 2 | 3
 |---|---|---|
+| :sunny: `:sunny:` | :umbrella: `:umbrella:` | :cloud: `:cloud:` |
 | :snowflake: `:snowflake:` | :snowman: `:snowman:` | :zap: `:zap:` |
 | :cyclone: `:cyclone:` | :foggy: `:foggy:` | :ocean: `:ocean:` |
 | :cat: `:cat:` | :dog: `:dog:` | :mouse: `:mouse:` |
@@ -120,8 +121,9 @@ Nature
 Objects
 ======
 
-| :bamboo: `:bamboo:` | :gift_heart: `:gift_heart:` | :dolls: `:dolls:` |
+1 | 2 | 3
 |---|---|---|
+| :bamboo: `:bamboo:` | :gift_heart: `:gift_heart:` | :dolls: `:dolls:` |
 | :school_satchel: `:school_satchel:` | :mortar_board: `:mortar_board:` | :flags: `:flags:` |
 | :fireworks: `:fireworks:` | :sparkler: `:sparkler:` | :wind_chime: `:wind_chime:` |
 | :rice_scene: `:rice_scene:` | :jack_o_lantern: `:jack_o_lantern:` | :ghost: `:ghost:` |
@@ -212,8 +214,9 @@ Objects
 Places
 ======
 
-| :house: `:house:` | :house_with_garden: `:house_with_garden:` | :school: `:school:` |
+1 | 2 | 3
 |---|---|---|
+| :house: `:house:` | :house_with_garden: `:house_with_garden:` | :school: `:school:` |
 | :office: `:office:` | :post_office: `:post_office:` | :hospital: `:hospital:` |
 | :bank: `:bank:` | :convenience_store: `:convenience_store:` | :love_hotel: `:love_hotel:` |
 | :hotel: `:hotel:` | :wedding: `:wedding:` | :church: `:church:` |
@@ -253,8 +256,10 @@ Places
 Symbols
 ======
 
-| :one: `:one:` | :two: `:two:` | :three: `:three:` |
+
+1 | 2 | 3
 |---|---|---|
+| :one: `:one:` | :two: `:two:` | :three: `:three:` |
 | :four: `:four:` | :five: `:five:` | :six: `:six:` |
 | :seven: `:seven:` | :eight: `:eight:` | :nine: `:nine:` |
 | :keycap_ten: `:keycap_ten:` | :1234: `:1234:` | :zero: `:zero:` |
