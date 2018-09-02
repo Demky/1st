@@ -9,8 +9,8 @@ Commands | Description
 git config --global user.name "_your name here"_ | Set a user name, will be linked to your commit
 git config --global user.email "_your email here"_ | same as previous this time with email
 
-If you need to check if there is already a registered name or email; just use those without the end "string":
-> git config --global user.name 
+If you need to check your registered settings (name, email,...) :
+> git config --list
 
 On Windows 10; you can also open **.gitconfig**, default location is : C:\Users\ <user_name>
 
@@ -24,6 +24,9 @@ git status | return folder status (git registerd, unknow...) | https://git-scm.c
 git init | we tell git that the current directory should be considered as a git repository | https://git-scm.com/docs/git-init
 git add <name> | add a files to git index | https://git-scm.com/docs/git-add
 git commit -m "your message" | Record changes to the repository and add a comments about the change | https://git-scm.com/docs/git-commit
+git remote show origin | Inspecting a Remote : Show the origin url of a git folder | https://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes
+  
+![image 404](https://i.imgur.com/DucYZXJ.png)
 
 
 <br /><br />
