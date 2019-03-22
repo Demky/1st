@@ -15,6 +15,10 @@ If you need to check your registered settings (name, email,...) :
 
 On Windows 10; you can also open **.gitconfig**, default location is : C:\Users\ <user_name>
 
+### Bonus
+
+**.patch** : Add .patch at the end of the URL for a commit page, Pull Request, or Compare View and you will have it as plaintext with some complementary information.
+
 git commands :anger:
 --
 
