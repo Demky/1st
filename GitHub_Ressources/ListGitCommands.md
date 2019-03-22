@@ -8,6 +8,7 @@ Commands | Description
 ------------ | -------------
 git config --global user.name "_your name here"_ | Set a user name, will be linked to your commit
 git config --global user.email "_your email here"_ | same as previous this time with email
+git config --global --unset-all user.name | Remove the user.name
 
 If you need to check your registered settings (name, email,...) :
 > git config --list
