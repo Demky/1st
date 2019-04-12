@@ -1,25 +1,7 @@
-:penguin: Find the bigger value
+
 --
-
-**Files not completed** : code is wrong and algorithm is false (why start a 0 and not a list[0] ? what if numbers are <0 ?
-
-Only python algorithm is correct, other language need correction (make a pull request if you got the solution).
-
-----
-
-
-* [Python](https://docs.python.org/3/tutorial/index.html)
-
-_vMax start a first index of the list (works for positiv and negativ numbers)_
-
-```
-lst = [3, 12, 5]
- 
-vMax = lst[0]
-for i in lst :
-  if i > vMax:
-  vmax = i
-```
+This file will disappear in the futur
+NOTA : **Files not completed** : code is wrong and algorithm is false (why start a 0 and not a list[0] ? what if numbers are <0 ?
 
 
 ---------------------------------
