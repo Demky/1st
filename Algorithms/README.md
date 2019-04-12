@@ -12,4 +12,10 @@ Find the biggest value of an array | Python | find_max.py |
 
 
 
+
 :penguin:
+
+<br>
+<br>
+
+TODO: _s_insertion.py_ & _s_bubble.py_ to function
