@@ -6,23 +6,24 @@
 // ------------------------------------
 // I made this file when i was learning js; will convert it to a function later
 
-var tab = [15, 1, 53, 5, 56, 32, 25, 919, 85, 6];
-var isChanged = true;
-var i2 = 0;
+const arr = [15, 1, 53, 5, 56, 32, 25, 919, 85, 6];
+let isChanged = true; // flag is used to stop if the array is already sorted ; no need to go till the end of array
 
 while (isChanged) {
     isChanged = false
-    for ( c = 0; c <= tab.length; c++) {
-        for (i2 = 0; i2 <= (tab.length-1-c); i2++) {
-            if (tab[i2] < tab[i2+1]) {
-                var tempX = tab[i2];
-                var tempY = tab[i2+1];
-                tab[i2] = tempY;
-                tab[i2+1] = tempX;
+    for ( let i = 0; i <= arr.length; i++) {
+        for ( let j = 0; j <= (arr.length - 1 - i); j++) { // a sorted number is no more sorted
+            if (arr[j] > arr[j+1]) {
+                const tempStock = arr[j];
+                arr[j] = arr[j+1];
+                arr[j+1] = tempStock;
                 isChanged = true;
             }
-        console.log("tab en cour de tri -> " + tab);
+        console.log("array in progress -> " + arr);
         }
     }
 }
-console.log("tab final -> " + tab)
+console.log("final array sorted -> " + arr)
+
+// 2019/04/26
+// BELLOC Boris
