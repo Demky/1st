@@ -10,8 +10,6 @@ Folders
 
 <br>
 
-* **AfpaCar_screens** : Screenshot of website made during formation (2018) : Web Developer
-   * TODO : remove from here ?
 
 
 <br><br><br><br>
