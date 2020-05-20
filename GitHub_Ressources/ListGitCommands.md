@@ -32,8 +32,8 @@ git init | we tell git that the current directory should be considered as a git 
 git add <name> | add a files to git index | https://git-scm.com/docs/git-add
 git commit -m "your message" | Record changes to the repository and add a comments about the change | https://git-scm.com/docs/git-commit
 git remote show origin | **Inspecting a Remote : Show the origin url of a git folder** | https://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes
+git remote set-url origin [updated link url https://........git] | Fix problem `This repository moved...` warning in CLI | /
   
-![image 404](https://i.imgur.com/DucYZXJ.png)
 
 
 <br /><br />
