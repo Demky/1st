@@ -17,6 +17,15 @@ If you need to check your registered settings (name, email,...) :
 
 On Windows 10; you can also open **.gitconfig**, default location is : C:\Users\ <user_name>
 
+git ORIGIN :cloud:
+--
+
+Commands | Description
+------------ | -------------
+git remote show origin | **Inspecting a Remote : Show the origin url of a git folder** | https://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes
+git remote set-url origin [updated link url https://........git] | Fix problem `This repository moved...` warning in CLI | /
+
+
 ### Bonus
 
 **.patch** : Add .patch at the end of the URL for a commit page, Pull Request, or Compare View and you will have it as plaintext with some complementary information.
@@ -31,8 +40,6 @@ git status | return folder status (git registerd, unknow...) | https://git-scm.c
 git init | we tell git that the current directory should be considered as a git repository | https://git-scm.com/docs/git-init
 git add <name> | add a files to git index | https://git-scm.com/docs/git-add
 git commit -m "your message" | Record changes to the repository and add a comments about the change | https://git-scm.com/docs/git-commit
-git remote show origin | **Inspecting a Remote : Show the origin url of a git folder** | https://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes
-git remote set-url origin [updated link url https://........git] | Fix problem `This repository moved...` warning in CLI | /
   
 
 
