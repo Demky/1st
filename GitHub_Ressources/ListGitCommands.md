@@ -17,6 +17,10 @@ If you need to check your registered settings (name, email,...) :
 
 On Windows 10; you can also open **.gitconfig**, default location is : C:\Users\ <user_name>
 
+- If need to change git password :
+Windows : https://stackoverflow.com/a/51637927/9552861 
+
+
 git ORIGIN :cloud:
 --
 
